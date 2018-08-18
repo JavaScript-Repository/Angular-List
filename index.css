@@ -1,0 +1,17 @@
+.lista{
+    width: 500px;
+    height: 500px;
+    background: lightblue;
+    border-radius: 5px;
+    border: solid 1px;
+}
+h2{
+    text-align: center;
+}
+span{
+    background: white;
+    color: black;
+    border: solid 1px;
+    font-size: 120%;
+    float: right;
+}
